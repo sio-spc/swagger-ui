@@ -1,6 +1,3 @@
-// 20210623230703
-// https://raw.githubusercontent.com/bcgov/api-specs/master/bcdc/bcdc.json
-
 {
   "openapi": "3.0.0",
   "servers": [
