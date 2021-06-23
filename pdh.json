@@ -16,7 +16,7 @@
   ],
   "info": {
     "title": "Pacific Data Hub - Data Catalogue API",
-    "description": "This API provides live access to the Pacific Data Hub Data Catalogue. Further documentation on the API is available from http://docs.ckan.org/en/latest/ Confirm the version of the API available from the catalogue by requesting https://pacificdata.org/data/api/3/action/status_show. \n\nPlease note that you may experience issues when submitting requests to the Dev or UAT environment if using this OpenAPI specification in other API console viewers.",
+    "description": "This API provides live access to the Pacific Data Hub Data Catalogue. Further documentation on the API is available from http://docs.ckan.org/en/latest/ Confirm the version of the API available from the catalogue by requesting https://pacificdata.org/data/api/3/action/status_show.",
     "termsOfService": "https://pacificdata.org/terms-use",
     "contact": {
       "name": "Pacific Data Hub Data Catalogue",
