@@ -35,7 +35,7 @@
       "description": "CKAN's Action API is a powerful, RPC-style API that exposes all of CKAN's core features to API clients.",
       "externalDocs": {
         "description": "Find out more",
-        "url": "http://docs.ckan.org/en/ckan-2.5.3/api/index.html"
+        "url": "https://docs.ckan.org/en/2.9/api/"
       }
     }
   ],
